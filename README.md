@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Dalili Nordin
 
-<!--
-**dalilinordinnn/dalilinordinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Multimedia Computing student at UiTM interested in Graphic and AI
 
-Here are some ideas to get you started:
+## About me
+- Studying: Bachelor in Multimedia Computing, UiTM
+- Currently learning: Special Topics in Computer Science.
+- My FYP area: I'm still deciding my FYP Project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+Python and Java
+
+## Projects
+- SpeakOut - Anonymous Bullying Reporting System  (Group Project) ([link-to-your-repository](https://github.com/raefaidid/speakout-java/tree/main)): Anonymous bullying reporting for students. Transparent case tracking for teachers.
+
+## Contact
+- Email: dalilinordin@gmail.com
