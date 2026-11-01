@@ -11,7 +11,7 @@ I'm a Multimedia Computing student at UiTM interested in Graphic and AI
 Python and Java
 
 ## Projects
-- SpeakOut - Anonymous Bullying Reporting System  (Group Project) ([link-to-your-repository](https://github.com/raefaidid/speakout-java/tree/main)): Anonymous bullying reporting for students. Transparent case tracking for teachers.
+- SpeakOut - Anonymous Bullying Reporting System  (Group Project) ([link-to-your-repository](https://github.com/dalilinordinnn/speakout-reporting-platform)): Anonymous bullying reporting for students. Transparent case tracking for teachers.
 
 ## Contact
 - Email: dalilinordin@gmail.com
